@@ -10,7 +10,7 @@ body {
 
 .envelope img {
     max-width: 35px;
-    position:fixed;
+    position: fixed;
     bottom: 0px;
     right: 0px;
     margin: 15px;
@@ -67,7 +67,7 @@ a {
 main {
     width: 100%;
     max-width: 700px;
-    margin: 200px auto 0px;
+    margin: 100px auto 0px;
     display: flex;
     font-size: 10pt;
     font-family: sans-serif;
