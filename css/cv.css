@@ -1,0 +1,120 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background-color: seashell;
+    
+}
+
+.envelope img {
+    max-width: 35px;
+    position:fixed;
+    bottom: 0px;
+    right: 0px;
+    margin: 15px;
+    color:cadetblue;
+}
+
+/*NAVIGATION*/
+nav {
+    margin: -35px 10px;
+    width: 150px;
+    height: 130px;
+    font-size: 15pt;
+    position: fixed;
+    bottom: 0px;
+    font-family: sans-serif;
+}
+
+nav .one {
+    margin: 5px 0px;
+    
+}
+
+nav .two {
+    margin: 5px 0px;
+
+}
+
+nav .three {
+    margin: 5px 0px;
+}
+
+nav .logo {
+    padding: 5px;
+}
+
+a:link, a:visited {
+    color: cadetblue;
+}
+
+a:hover {
+    color: lightblue;  
+}
+
+a:active {
+    color:aliceblue;
+}
+
+a {
+    text-decoration: none;
+}
+
+/*MAIN*/
+
+main {
+    width: 100%;
+    max-width: 700px;
+    margin: 200px auto 200px;
+    display: flex;
+    font-size: 10pt;
+    font-family: sans-serif;
+   
+}
+
+.education, .workshops, .work {
+    background-color: aliceblu;
+    width: 100%;
+    margin: 15px;
+    text-align: left;
+   
+}
+
+/*TITLES*/
+
+.title {
+    color:darkcyan;
+    font-weight: 500;
+
+}
+
+/*EDUCATION*/
+
+.education div {
+    
+    padding: 5px;
+}
+
+.workshops div {
+    
+    padding: 5px;
+    
+}
+
+.work div {
+    
+    padding: 5px;
+}
+
+.sub {
+    font-weight: 400; 
+}
+
+
+.education, .workshops, .work {
+    font-weight: 100;
+    font-size: 9pt;
+}
+
