@@ -67,7 +67,7 @@ a {
 main {
     width: 100%;
     max-width: 700px;
-    margin: 100px auto 0px;
+    margin: 0px auto 0px;
     display: flex;
     font-size: 10pt;
     font-family: sans-serif;
