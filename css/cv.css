@@ -13,13 +13,13 @@ body {
     position: fixed;
     bottom: 0px;
     right: 0px;
-    margin: 15px;
+    margin: 20px 15px;
     color:cadetblue;
 }
 
 /*NAVIGATION*/
 nav {
-    margin: -35px 10px;
+    margin: -30px 10px;
     width: 150px;
     height: 130px;
     font-size: 15pt;
@@ -67,7 +67,7 @@ a {
 main {
     width: 100%;
     max-width: 700px;
-    margin: 0px auto 0px;
+    margin: 200px auto 0px;
     display: flex;
     font-size: 10pt;
     font-family: sans-serif;
