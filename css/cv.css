@@ -13,13 +13,13 @@ body {
     position: fixed;
     bottom: 0px;
     right: 0px;
-    margin: 20px 15px;
+    margin: 15px 10px;
     color:cadetblue;
 }
 
 /*NAVIGATION*/
 nav {
-    margin: -30px 10px;
+    margin: -35px 5px;
     width: 150px;
     height: 130px;
     font-size: 15pt;
