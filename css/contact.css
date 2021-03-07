@@ -8,7 +8,7 @@ body {
 }
 /*NAVIGATION*/
 nav {
-    margin: -35px 10px;
+    margin: -35px 5px;
     width: 150px;
     height: 130px;
     font-size: 15pt;
@@ -52,14 +52,7 @@ a {
     text-decoration: none;
 }
 
-/*VIDEO*/
-
-main {
-    background-color: re;
-    width: 95%;
-    max-width: 800px;
-    margin: 230px auto 0px;
-}
+/*EMAIL*/
 
 .contact {
   
@@ -72,7 +65,7 @@ main {
    width: 90%;
     max-width: 800px;
     text-align: center;
-    margin: 400px auto;
+    margin: 400px auto 0px;
     font-size: 10pt;
     font-family: sans-serif;
     color: slategray;
