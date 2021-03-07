@@ -6,16 +6,17 @@ body {
     background-color: seashell;
     
 }
-/*NAVIGATION*/
+
 nav {
-    margin: -15px 5px;
+    margin: -35px 5px;
     width: 150px;
     height: 130px;
-    font-size: 20pt;
+    font-size: 15pt;
     position: fixed;
     bottom: 0px;
     font-family: sans-serif;
 }
+
 
 nav .one {
     margin: 5px 0px;
@@ -51,4 +52,7 @@ a:active {
 a {
     text-decoration: none;
 }
+
+
+
 
