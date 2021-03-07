@@ -78,7 +78,7 @@ main {
 .education, .workshops, .work {
     background-color: aliceblu;
     width: 100%;
-    margin: 5px;
+    margin: 10px;
     text-align: left;
    
 }
@@ -91,22 +91,22 @@ main {
 
 }
 
-/*EDUCATION*/
+/*COLUMNS*/
 
 .education div {
     
-    padding: 5px;
+    padding: 5px 0px;
 }
 
 .workshops div {
     
-    padding: 5px;
+    padding: 5px 0px;
     
 }
 
 .work div {
     
-    padding: 5px;
+    padding: 5px 0px;
 }
 
 .sub {
