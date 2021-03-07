@@ -78,7 +78,7 @@ main {
 .education, .workshops, .work {
     background-color: aliceblu;
     width: 100%;
-    margin: 12px;
+    margin: 10px;
     text-align: left;
     
 }
@@ -99,6 +99,12 @@ main {
 }
 
 .workshops div {
+    
+    padding: 5px 0px 0px 11px;
+    
+}
+
+.internships div {
     
     padding: 5px 0px;
     
