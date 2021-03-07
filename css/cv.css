@@ -101,7 +101,7 @@ main {
 
 .workshops div {
     
-    padding: 5px 0px 0px 11px;
+    padding: 5px 0px;
     
 }
 
@@ -120,9 +120,49 @@ main {
     font-weight: 400; 
 }
 
-
 .education, .workshops, .work {
     font-weight: 100;
     font-size: 9pt;
 }
 
+@media only screen and (min-width: 600px) {
+
+main {
+    width: 100%;
+    max-width: 600px;
+    margin: 150px auto 0px;
+    display: flex;
+    font-size: 10pt;
+    font-family: sans-serif;
+    padding: 5px;
+    background-color: whit;
+   
+}
+
+    /*COLUMNS*/
+
+.education div {
+    
+    padding: 5px 0px;
+}
+
+.workshops div {
+    
+    padding: 5px 0px 0px 60px;
+    
+}
+
+.internships div {
+    
+    padding: 5px 0px;
+    
+}
+    
+.work div {
+    
+    padding: 5px 0px 0px 70px;
+}
+    
+    
+    
+}
