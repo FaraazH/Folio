@@ -68,7 +68,7 @@ a {
 main {
     width: 100%;
     max-width: 500px;
-    margin: 0 auto;
+    margin: 0px auto;
     display: flex;
     font-size: 10pt;
     font-family: sans-serif;
