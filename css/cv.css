@@ -14,16 +14,16 @@ body {
     position: fixed;
     bottom: 0px;
     right: 0px;
-    margin: 10px 10px;
+    margin: 11px 11px;
     color:cadetblue;
 }
 
 /*NAVIGATION*/
 nav {
-    margin: -35px 5px;
+    margin: -34px 6px;
     width: 150px;
     height: 130px;
-    font-size: 15pt;
+    font-size: 16pt;
     position: fixed;
     bottom: 0px;
     font-family: sans-serif;
